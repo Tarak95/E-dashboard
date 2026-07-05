@@ -10,7 +10,7 @@
     "preview": "vite preview"
   },
   "imports": {
-    "#components/*": "./src/components/*.tjx",
+    "#components/*": "./src/components/*.jsx",
     "#lib/*": "./src/lib/*.js",
     "#hooks/*": "./src/hooks/*.js"
   },
